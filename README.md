@@ -10,6 +10,7 @@ Inventory Management System is command line c++ software used to manage Inventor
 - MANAGES sales detils for items.
 - FILES are created in ".csv" format
 - INDIVIDUAL bills are generated for each customer with timestamp
+- READ, UPDATE Bills 
 
 ## Programming Concepts Applied
 
